@@ -107,13 +107,15 @@ li {
 }
 
 .logo {
-  height: 80px;
+  height: 100px;
   margin: 20px;
 }
 
 .sub-sec {
   display: flex;
   padding: 20px;
+  height: auto;
+  text-align: center;
 }
 
 .button2 {
